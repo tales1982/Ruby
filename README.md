@@ -21,7 +21,8 @@ We encourage you to contribute to this repository by adding new exercises, proje
 Simply fork the repository, make your changes, and submit a pull request.
 
 Happy learning!
-========================================= Français: ===================================================
+
+========================================= Français: ================================================
 
 Bienvenue dans le dépôt "Ruby" ! Vous trouverez ici des ressources, des exercices et des projets
 liés à l'apprentissage du langage de programmation Ruby.
@@ -45,8 +46,11 @@ Nous vous encourageons à contribuer à ce dépôt en ajoutant de nouveaux exerc
 Il vous suffit de forker le dépôt, d'apporter vos modifications, puis de soumettre une demande d'extraction.
 
 Bon apprentissage !
+
 ========================================= PT-BR ===================================================
-Bem-vindo ao repositório Ruby! Aqui você encontrará recursos, exercícios e projetos relacionados ao aprendizado da linguagem de programação Ruby.
+
+Bem-vindo ao repositório Ruby! Aqui você encontrará recursos, 
+exercícios e projetos relacionados ao aprendizado da linguagem de programação Ruby.
 
 Começando:
 
